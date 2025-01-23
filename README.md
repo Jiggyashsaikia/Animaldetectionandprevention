@@ -17,3 +17,10 @@ Things used:-
 3. Buzzer - Buzzers were used in order to proof that more powerfull systems can be used. Similarly to the lights the better alarm system would need external power has the esp 32 is only at best is able to provide 5v.
 
 
+SOFTWARE
+
+I am using a object_detection_COCO it is reprository in github it is a light weight object detection library. 
+
+It uses mobilenet_iter_73000.caffemodel. 
+
+It has been chosen because it is light weight and esy to work with.
